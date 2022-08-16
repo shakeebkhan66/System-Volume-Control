@@ -18,7 +18,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: ">=2.2.2 <3.0.0"
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -36,6 +36,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   volume: ^1.0.1
   vibration: ^1.7.5
+  flutter_polyline_points: ^1.0.0
+  google_maps_flutter: ^2.1.10
+  location: ^4.4.0
+  flutter_svg:
+  permission_handler: ^10.0.0
+  connectivity_plus: ^2.3.6+1
+  network_info_plus: ^2.1.4+1
 
 dev_dependencies:
   flutter_test:
