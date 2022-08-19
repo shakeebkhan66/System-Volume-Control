@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_background/flutter_background.dart';
 import 'package:office_detection_sound_task/volume_control_page.dart';
 
 void main() async{
